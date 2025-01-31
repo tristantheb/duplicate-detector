@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "@tristantheb-duplicate-detector"
+version = "0.0.1"
+description = ""
+authors = ["Tristan D. <tristantheb@gmail.com>"]
+package-mode = false
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+pandas = "^2.2.2"
+jupyter = "^1.1.1"
+openpyxl = "^3.1.5"
+tqdm = "^4.66.5"
+python-dotenv = "^1.0.1"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

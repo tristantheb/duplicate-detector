@@ -1,0 +1,7 @@
+.venv
+output/*
+!output/.gitkeep
+__MACOSX/
+.env
+dist/
+build/
