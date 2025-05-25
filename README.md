@@ -11,12 +11,8 @@
 4. Use jupyter into vscode :
     <https://code.visualstudio.com/docs/datascience/jupyter-notebooks>
 5. Select the kernel in vscode
-6. Crete an ipynb.
+6. Create an ipynb.
 7. Run with directly in vscode
-
-## to add pip dependency use
-
-poetry add {dependency name}
 
 ## To convert a notebook to a python file
 
